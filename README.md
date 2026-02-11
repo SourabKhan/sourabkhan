@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sourab 👋</h1>
-<h3 align="center">Data Analyst | SQL | Python | Power BI</h3>
+<h3 align="center">Data Analyst | SQL | Python | Excel | Power BI</h3>
 
 ---
 
@@ -11,7 +11,7 @@
 
 ---
 
-# 💡 Skills
+**💡 Skills**
 
 **Languages:** Python, SQL  
 **Tools & Visualization:** Excel, Power BI, Jupyter Notebook  
@@ -19,7 +19,7 @@
 
 ---
 
-# 📊 Projects
+**📊 Projects**
 
 🔹 [End-to-End Data Warehouse & SQL Analytics](https://github.com/SourabKhan/sql-data-warehouse-project) 
 
@@ -31,7 +31,7 @@
 
 ---
 
-# 📬 Let’s Connect!
+**📬 Let’s Connect!**
 
 - 📧 Email: sourab19khan@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/sourabkhan  
