@@ -3,7 +3,7 @@
 
 ---
 
-# 👤 About Me
+ **👤 About Me**
 
 🔹 Data Analyst with a strong foundation in **SQL**, **Python**, **Excel**, and **Power BI**.  
 🔹 Skilled in cleaning, analyzing, and visualizing data to generate insights for data-driven decision-making.  
@@ -11,7 +11,7 @@
 
 ---
 
-# 🧠 Skills
+# 💡 Skills
 
 **Languages:** Python, SQL  
 **Tools & Visualization:** Excel, Power BI, Jupyter Notebook  
