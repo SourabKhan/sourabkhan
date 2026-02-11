@@ -23,9 +23,9 @@
 
 🔹 [End-to-End Data Warehouse & SQL Analytics](https://github.com/SourabKhan/sql-data-warehouse-project) 
 
-🔹 [Zomato Consumer Behavior Analysis (Python)](https://github.com/SourabKhan/Zomato-Data-Analysis-Project) 
+🔹 [Zomato Consumer Behavior Analysis](https://github.com/SourabKhan/Zomato-Data-Analysis-Project) 
 
-🔹 [Uber Ride Analytics Dashboard (Power BI)](https://github.com/SourabKhan/Uber-Data-Analytics-Dashboard-in-Power-Bi)
+🔹 [Uber Ride Analytics Dashboard](https://github.com/SourabKhan/Uber-Data-Analytics-Dashboard-in-Power-Bi)
 
 👉Check out all my projects [here](https://github.com/SourabKhan?tab=repositories )  
 
