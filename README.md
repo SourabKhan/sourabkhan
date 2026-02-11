@@ -1,4 +1,7 @@
-# Hi, I'm Sourab 👋
+<h1 align="center">Hi, I'm Sourab 👋</h1>
+<h3 align="center">Data Analyst | SQL | Python | Power BI</h3>
+
+---
 
 ## 👤 About Me
 
@@ -18,18 +21,15 @@
 
 ## 📊 Projects
 
-🔹 **End-to-End Data Warehouse & SQL Analytics**  
-👉 https://github.com/SourabKhan/sql-data-warehouse-project  
+🔹 **[End-to-End Data Warehouse & SQL Analytics](https://github.com/SourabKhan/sql-data-warehouse-project)**  
 
-🔹 **Zomato Consumer Behavior Analysis (Python)**  
-👉 https://github.com/SourabKhan/Zomato-Data-Analysis-Project  
+🔹 **[Zomato Consumer Behavior Analysis (Python)](https://github.com/SourabKhan/Zomato-Data-Analysis-Project)**  
 
-🔹 **Uber Ride Analytics Dashboard (Power BI)**  
-👉 https://github.com/SourabKhan/Uber-Data-Analytics-Dashboard-in-Power-Bi  
+🔹 **[Uber Ride Analytics Dashboard (Power BI)](https://github.com/SourabKhan/Uber-Data-Analytics-Dashboard-in-Power-Bi)**  
 
 ---
 
-👉 Check out all my projects here:  
+👉 **Check out all my projects here:**  
 🔗 https://github.com/SourabKhan?tab=repositories  
 
 ---
